@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9cca1f2-5d44-4475-8897-7bb03c159824" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1R64z4czqe9D9m12wHu9MC9GlaB" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v10.16.0-win-x64/node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\msimm\Desktop\untitled" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.Ejer7.js">
+    <configuration name="DWECEjwe31.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/DWECEjwe31.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ejer10.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Practica2/Ejer10.js" working-dir="$PROJECT_DIR$/Practica2">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ejer11.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Practica2/Ejer11.js" working-dir="$PROJECT_DIR$/Practica2">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ejer7.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Practica2/Ejer7.js" working-dir="$PROJECT_DIR$/Practica2">
+      <method v="2" />
+    </configuration>
+    <configuration name="Ejer9.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Practica2/Ejer9.js" working-dir="$PROJECT_DIR$/Practica2">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Ejer7.js" />
+        <item itemvalue="Node.js.Ejer9.js" />
+        <item itemvalue="Node.js.Ejer10.js" />
+        <item itemvalue="Node.js.Ejer11.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9cca1f2-5d44-4475-8897-7bb03c159824" name="Default Changelist" comment="" />
+      <created>1568974470232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568974470232</updated>
+      <workItem from="1568974471320" duration="268000" />
+      <workItem from="1568974845971" duration="6369000" />
+      <workItem from="1569059881989" duration="4763000" />
+      <workItem from="1569082840107" duration="1740000" />
+      <workItem from="1569219605623" duration="113000" />
+      <workItem from="1569219779038" duration="633000" />
+      <workItem from="1569239291959" duration="1298000" />
+      <workItem from="1569256436916" duration="3147000" />
+      <workItem from="1569306158800" duration="9378000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
